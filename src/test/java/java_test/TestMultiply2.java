@@ -16,5 +16,6 @@ public class TestMultiply2 {
 	@Test
 	public void testMinus1() {
 		assertEquals(Multiply2.multiply2(-1), -2);
+		System.out.println("new commit");
 	}
 }
